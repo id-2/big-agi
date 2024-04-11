@@ -21,7 +21,7 @@
     "@tanstack/react-query": "^4.29.5",
     "@vercel/analytics": "^1.0.1",
     "eventsource-parser": "^1.0.0",
-    "next": "^13.4.1",
+    "next": "^13.5.6",
     "pdfjs-dist": "^3.6.172",
     "plantuml-encoder": "^1.4.0",
     "prismjs": "^1.29.0",
